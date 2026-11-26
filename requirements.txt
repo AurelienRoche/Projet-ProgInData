@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+scikit-learn
+scipy
+mlxtend
+statsmodels
+plotly
+dash
+jupyter
+ipykernel
+pyarrow
